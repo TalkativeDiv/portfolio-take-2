@@ -1,0 +1,9 @@
+export { default as Contact } from './Contact';
+export { default as Footer } from './Footer';
+export { default as Intro } from './Intro';
+export { default as Portfolio } from './Portfolio';
+export { default as Timeline } from './Timeline';
+export { default as Blog } from './Blog';
+export { default as Title } from './Title';
+export { default as PortfolioItem } from './PortfolioItem';
+export { default as TimelineItem } from './TimelineItem';
